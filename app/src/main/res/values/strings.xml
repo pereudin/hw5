@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">hw5</string>
+    <string name="title">User Information</string>
+    <string name="hint_name">Enter Name</string>
+    <string name="hint_surname">Enter Surname</string>
+    <string name="hint_age">Enter age</string>
+    <string name="hint_user_id">Enter user id to update or delete</string>
+    <string name="add_user">Add user</string>
+    <string name="update_user">Update by id</string>
+    <string name="delete_user">Delete by id</string>
 </resources>
